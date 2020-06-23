@@ -1,0 +1,16 @@
+h1 {
+  text-align: center;
+  font-size: 90px;
+  background: -webkit-linear-gradient(#46eefa, #d16ba5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-bottom: 20px;
+}
+
+.equilateral, .isosceles, .scalene, .notTriangle {
+  display: none;
+}
+
+#triangle {
+  text-align: center;
+}
